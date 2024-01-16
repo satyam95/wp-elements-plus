@@ -1,0 +1,132 @@
+/* Team */
+.wpbce-inner-block {
+  text-align: center;
+}
+
+.wpbce-media-block img {
+  width: 160px;
+  height: 160px;
+}
+
+.wpbce-single-social img {
+  width: 22px;
+  height: 22px;
+}
+
+.wpbce-social-row {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Infinity logo slider */
+
+.wpbce-logo-slider {
+  overflow: hidden;
+  padding: 30px 0 0 0;
+  white-space: nowrap;
+  position: relative;
+}
+
+/* .wpbce-logo-slider:hover .wpbce-logos-slide {
+  animation-play-state: paused;
+} */
+
+.wpbce-logos-slide {
+  display: inline-block;
+  /* animation: 45s slide infinite linear; */
+}
+
+.wpbce-logos-slide img {
+  width: 183px;
+  height: 83px;
+  margin: 0 40px;
+}
+
+/* @keyframes slide {
+  from {
+    transform: translateX(0);
+  }
+
+  to {
+    transform: translateX(-100%);
+  }
+} */
+
+/* custom list */
+ul.wpbce-list-container {
+  list-style: none;
+}
+
+span.wpbce-list-marker img {
+  width: 24px;
+  height: 24px;
+}
+
+li.wpbce-list-item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+span.wpbce-list-marker {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/*Testimoinal*/
+.wpbce-testimonial-img img {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+}
+
+.wpbce-testi-media-block {
+  display: flex;
+  align-items: center;
+  gap: 21px;
+}
+
+.wpbce-testimonial-head h3,
+.wpbce-testimonial-head h4 {
+  margin: 0;
+}
+
+/* Infobox */
+.wpbce-cta-head {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.wpbce-cta-head h3 {
+  margin: 0;
+}
+
+span.wpbce-cta-icon img {
+  width: 24px;
+  height: 24px;
+}
+
+/* USP Pointer */
+.wpbceinner-usp-pointer-media img {
+  width: 100px;
+  height: 100p;
+}
+
+.wpbceinner-usp-pointer-content h3 {
+  margin: 0;
+}
+
+.wpbceinner-usp-pointer-bolck {
+  display: flex;
+  gap: 16px;
+  align-items: flex-start;
+}
+
+/* Coverage*/
+.wpbce-inner-cov-card-block a {
+  text-decoration: none;
+}
